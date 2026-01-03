@@ -1,59 +1,34 @@
-# Tic-Tac-Toe Game in Java 🎮
+# 🎮 Tic-Tac-Toe (Java)
 
-A simple console-based **Tic-Tac-Toe** game implemented in Java. Two players can play against each other by taking turns to place **X** and **O** on a 3x3 grid.
-
----
-
-## Features ✨
-
-- Two-player gameplay (Player X and Player O)
-- Input validation for moves (only numbers 1-9 allowed)
-- Detects invalid moves (occupied cells)
-- Announces the winner or a draw
-- Simple and clear console-based interface
+A simple **console-based two-player Tic-Tac-Toe game** built using Java.  
+This project focuses on **clean Object-Oriented Programming (OOP)**, input validation, and game logic.
 
 ---
 
-## How to Play 🕹️
+## 🛠 Tech Stack
 
-1. Run the program.
-2. The game board is displayed as:
-1 | 2 | 3
----+---+---
-4 | 5 | 6
----+---+---
-7 | 8 | 9
-
-
-3. Players take turns entering a number corresponding to the cell where they want to place their mark.
-4. The game continues until one player wins or all cells are filled (draw).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge)
+![Console](https://img.shields.io/badge/Console%20App-Terminal-black?style=for-the-badge)
 
 ---
 
-## Example Gameplay
-Player X, enter your move (1-9): 1
-X | 2 | 3
----+---+---
-4 | 5 | 6
----+---+---
-7 | 8 | 9
-
-Player O, enter your move (1-9): 5
-X | 2 | 3
----+---+---
-4 | O | 6
----+---+---
-7 | 8 | 9
-
+## 🚀 Features
+- Two-player mode (X vs O)
+- Input validation to prevent invalid moves
+- Automatic win and draw detection
+- Clear and readable console interface
 
 ---
 
-## How to Run 💻
+## 🛠 Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- Console input/output
 
-1. Make sure you have **Java** installed (JDK 8 or later).
-2. Compile the code
-3. Run the game:
-```bash
-java Main
+---
 
-
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hamzahmad6/TicTacToe.git
