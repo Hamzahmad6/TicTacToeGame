@@ -27,8 +27,3 @@ This project focuses on **clean Object-Oriented Programming (OOP)**, input valid
 - Console input/output
 
 ---
-
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hamzahmad6/TicTacToe.git
